@@ -18,3 +18,5 @@ Usage: run main.py with the following options:
         --nbr_it (number of iterations to run the optimization for)
         
         
+        
+![alt text]("examples/1D_GN_Optimization.gif")

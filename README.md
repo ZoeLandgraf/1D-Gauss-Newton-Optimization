@@ -19,4 +19,4 @@ Usage: run main.py with the following options:
         
         
         
-![alt text]("examples/1D_GN_Optimization.gif")
+![](examples/1D_GN_Optimization.gif)
